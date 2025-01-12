@@ -7,14 +7,11 @@
 
 ## Project Structure
 ```
-├── 4clip_image_captioning.ipynb  # Jupyter Notebook containing the code and experiments
 ├── README.md                      # Detailed project description (this file)
 ├── requirements.txt               # List of necessary packages for the project
-├── data/                          # Directory for storing sample images (add sample images here)
 ├── src/                           # Source code directory containing Python scripts
 │   ├── image_captioning.py        # Core script containing image captioning functions
 │   └── utils.py                   # Utility functions for image processing
-├── results/                       # Directory for storing generated captions and results
 └── LICENSE                        # Project license
 ```
 
