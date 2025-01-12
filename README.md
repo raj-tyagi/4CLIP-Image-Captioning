@@ -72,5 +72,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-### Author: Raj Tyagi
+### Author: **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/raj-tyagi-83765b21b/) 
 
