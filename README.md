@@ -1,1 +1,0 @@
-# 4CLIP-Image-Captioning
