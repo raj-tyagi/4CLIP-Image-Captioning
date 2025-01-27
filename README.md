@@ -1,6 +1,6 @@
 # 4CLIP: Enhanced Image Captioning using Quadrant-Based Feature Extraction
 
-4CLIP is a research-driven image captioning project that enhances traditional image captioning models by dividing images into four quadrants and processing them individually. This quadrant-based approach allows for better image understanding and more comprehensive captions. The project utilizes a pretrained VisionEncoderDecoderModel from the Hugging Face Transformers library, specifically the ViT-GPT2 model.
+4CLIP is a research-driven image captioning project that enhances traditional image captioning models by dividing images into four quadrants and processing them individually. This quadrant-based approach allows for better image understanding and more comprehensive captions. The project utilizes a pretrained VisionEncoderDecoderModel from the Hugging Face Transformers library, specifically the ViT-GPT2 model. 
 
 ## Repository Name
 `4CLIP-Image-Captioning`
